@@ -16,7 +16,7 @@
 
 * This is a brief video that I recorded which shows how to play the game and what goes on behind the scenes in terms of the code and structure.
 
-* [Game Demo Video](http://youtube.link.goes.here)
+* [Game Demo Video](https://youtu.be/O0roIKG_D3U)
 
 # Development Environment
 
