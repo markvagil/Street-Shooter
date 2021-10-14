@@ -10,6 +10,8 @@
 
 * This program uses variables, expressions, conditionals, loops, functions, classes, data structures, and inheritance.
 
+* You will need to start the game by running the __main__.py file.
+
 # Video Demonstration
 
 * This is a brief video that I recorded which shows how to play the game and what goes on behind the scenes in terms of the code and structure.
