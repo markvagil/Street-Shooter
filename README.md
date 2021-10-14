@@ -21,6 +21,7 @@
 * The tool that I used to develop the software was Visual Studio Code. This is my favorite Integraded Development Environment because it is a very lightweight program yet it still includes a lot of advanced functionality.
 * The programming language that I used to complete this project is Python in version 3.7.8 64-bit. It is a very interesting and unique language which is based around object oriented programming and I enjoy using it very much.
 * I used the Arcade module in Python to create this game. It is very useful and allows for much of the functionality that you see on the screen while you play.
+* I also used the Pygame module just to implement the music for the game.
 * Github is the online repository I used to store this project.
 
 # Useful Websites
